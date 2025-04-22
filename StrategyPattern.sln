@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example03ChainOfDiscounts", "Example03ChainOfDiscounts\Example03ChainOfDiscounts.csproj", "{CA2E735D-8E72-4EC8-91DD-015D14F2D350}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example02TextProcessor", "Example02TextProcessor\Example02TextProcessor.csproj", "{91823FA9-F835-421D-84CB-75A45EB797E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example01Sorting", "Example01Sorting\Example01Sorting.csproj", "{577002CE-7D98-4133-9976-BC5CBF84B737}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example04RuleBasedDiscountEngine", "Example04RuleBasedDiscountEngine\Example04RuleBasedDiscountEngine.csproj", "{D5A14705-4F93-4ECE-84B1-CE4077320019}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA2E735D-8E72-4EC8-91DD-015D14F2D350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA2E735D-8E72-4EC8-91DD-015D14F2D350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA2E735D-8E72-4EC8-91DD-015D14F2D350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA2E735D-8E72-4EC8-91DD-015D14F2D350}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91823FA9-F835-421D-84CB-75A45EB797E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91823FA9-F835-421D-84CB-75A45EB797E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91823FA9-F835-421D-84CB-75A45EB797E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91823FA9-F835-421D-84CB-75A45EB797E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{577002CE-7D98-4133-9976-BC5CBF84B737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{577002CE-7D98-4133-9976-BC5CBF84B737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{577002CE-7D98-4133-9976-BC5CBF84B737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{577002CE-7D98-4133-9976-BC5CBF84B737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5A14705-4F93-4ECE-84B1-CE4077320019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A14705-4F93-4ECE-84B1-CE4077320019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A14705-4F93-4ECE-84B1-CE4077320019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A14705-4F93-4ECE-84B1-CE4077320019}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

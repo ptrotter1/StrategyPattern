@@ -1,0 +1,33 @@
+# Ignore build outputs
+bin/
+obj/
+
+# Rider-specific files
+.idea/
+*.sln.iml
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.pid
+*.seed
+*.pid.lock
+
+# Visual Studio Code workspace files
+.vscode/
+
+# Rider workspace files
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
